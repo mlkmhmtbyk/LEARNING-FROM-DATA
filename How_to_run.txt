@@ -1,0 +1,1 @@
+Data klasörü içinde bulunan test ve train datalarını okunması ve sonucun da o klasör içine yazılması için cmd satırına python project.py yazılıp çalıştırılması gerekiyor.
